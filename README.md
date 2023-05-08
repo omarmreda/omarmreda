@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="programming" width=400 align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmreda&label=Profile%20views&color=0e75b6&style=flat" alt="omarmreda" /> </p>
 
-- 🌱 I’m currently active at **Gitlab** , **my account** : (https://gitlab.com/omarmreda95) 
+- 🌱 I’m currently active on **Gitlab** , **my account** : (https://gitlab.com/omarmreda95) 
 
 - 💬 Ask me about **Web pages UI**
 
