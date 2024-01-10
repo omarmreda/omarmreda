@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="programming" width=400 align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmreda&label=Profile%20views&color=0e75b6&style=flat" alt="omarmreda" /> </p>
 
-- 🌱 I’m currently working at **Ivas** as a **Frontend Developer** 
+- 🌱 I’m currently working at Fifth Dimension (5d) as a **Frontend Developer** 
 
 - 💬 Ask me about **Web pages UI**
 
